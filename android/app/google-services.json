@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "156033210752",
+    "firebase_url": "https://livraria-d7264.firebaseio.com",
+    "project_id": "livraria-d7264",
+    "storage_bucket": "livraria-d7264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156033210752:android:e815cb7313607760bbc965",
+        "android_client_info": {
+          "package_name": "br.com.lmp.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156033210752-7fahp8fflsi7uvbh1nbhgue813t1is9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kOvvBsZS_r43fIWPcn51vqCFK0MZ900"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156033210752-7fahp8fflsi7uvbh1nbhgue813t1is9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
